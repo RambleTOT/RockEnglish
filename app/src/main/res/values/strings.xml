@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">RockEnglish</string>
+    <string name="welcome">Добро пожаловать в RockEnglish</string>
+    <string name="guestReger">Для того чтобы войти как гость придумайте свой никнейм</string>
+    <string name="secondTxt">Вы успешно зарегестрировались.\n Теперь вам предстоит выбрать путь, по которому вы будете проходить курс. Вы можете начать курс с нуля или пройти тест на определение вашего уровня английского и начать занятия с чего-то новго.\n Мы рекомендуем 1 вариант, чтобы не допустить пробелов в знаниях и подкрепить то, что вы уже знаете</string>
+    <string name="regestrTxt">Для того чтобы зарегестрироваться вам нужно придумать никнейм, вести свою электронную почту и придумать пароль</string>
+    <string name="welcome_txt">Это онлайн школа английского языка, с функциями которой вы скоро познакомитесь, а сейчас зарегестрируйтесь или войдите как гость</string>
+    <string name="regestr">РЕГЕСТРАЦИЯ</string>
+    <string name="guestReg">РЕГЕСТРАЦИЯ ГОСТЯ</string>
+    <string name="regestration">РЕГЕСТРАЦИЯ</string>
+    <string name="guest">ВОЙТИ КАК ГОСТЬ</string>
+    <string name="guestHint">Введите никнейм</string>
+    <string name="regHintEmail">Введите почту</string>
+    <string name="regHintPass">Введите пароль</string>
+    <string name="guestInput">ВОЙТИ</string>
+    <string name="regerInput">ЗАРЕГЕСТРИРОВАТЬСЯ</string>
+    <string name="secondTitle">НАЧАЛО КУРСА</string>
+    <string name="secondZero">НАЧАТЬ С НУЛЯ</string>
+    <string name="secondTest">ПРОЙТИ ТЕСТ</string>
+    <string name="questionNumber">ВОПРОС 1</string>
+    <string name="confirm">Подтвердить регистрацию?</string>
+    <string name="confirmTest">Перейти к тесту?</string>
+    <string name="confirmSecond">Подтвердить действие? \n Если вы перейдете, то не сможете пройти тест и начнете курс с нуля</string>
+    <string name="confirmGuest">Подтвердить вход?</string>
+    <string name="confirmBackTest">Вы уверены что хотите выйти? \n Если вы выйдите, то все ответы будут онулированы</string>
+    <string name="entryReg">Если есть аккаунт, войти</string>
+    <string name="entryTitle">ВХОД</string>
+    <string name="entryTxt">Если у вас уже есть аккаунт, тогда введите почту и пароль, привязанные к акканту</string>
+    <string name="no">Отмена</string>
+    <string name="yes">Да</string>
+    <string name="answer">ОТВЕТИТЬ</string>
+    <string name="nickGuest">Введите никнейм!!!</string>
+    <string name="mailEntry">Введите почту!!!</string>
+    <string name="passEntry">Введите пароль!!!</string>
+    <string name="passMailEntry">Такой почты не существует или введен неправильный пароль</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/txtLight</item>
+        <item name="colorControlActivated">@color/txt</item>
+    </style>
+
+    <style name="MyEditTextTwo" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/btnLight</item>
+        <item name="colorControlActivated">@color/btn</item>
+    </style>
+
+    <style name="MyRadio" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/btnLight</item>
+        <item name="colorControlActivated">@color/btn</item>
+    </style>
+</resources>
